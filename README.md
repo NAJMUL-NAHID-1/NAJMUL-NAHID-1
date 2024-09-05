@@ -1,7 +1,8 @@
 👋 Hi, I’m @NAJMUL-NAHID-1
 🏛️ I'm studying CSE at RUET
 🎓 I've completed my Higher Secondary Education from
-Saint Joseph Higher Secondary School and Secondary Education from Basail Govinda Govt. High School.
+Saint Joseph Higher Secondary School and 
+Secondary Education from Basail Govinda Govt. High School.
 👀 I’m interested in Learning new technologies
 🌱 I’m currently learning DSA and OOP
 💞️ I’m looking to collaborate on ...
